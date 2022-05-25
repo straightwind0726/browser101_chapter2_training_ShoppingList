@@ -24,7 +24,7 @@ body {
     background-color: #f1f0f7;
     border-radius: 20px;
     -webkit-box-shadow: 5px 5px 12px 7px rgba(0,0,0,0.56); 
-    box-shadow: 5px 5px 12px 7px rgba(0,0,0,0.56);
+box-shadow: 5px 5px 12px 7px rgba(0,0,0,0.56);
 }
 
 .header {
